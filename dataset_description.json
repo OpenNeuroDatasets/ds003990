@@ -12,7 +12,7 @@
         "This work was supported by a BBSRC grant (BB/G008906/1) and by the University Research Board of the American University of Beirut. The funding sources had no involvement in the study design, collection, analysis and interpretation of data, writing of the manuscript or decision to submit the article for publication."
     ],
     "License": "CC0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds003990.v1.0.2",
+    "DatasetDOI": "doi:10.18112/openneuro.ds003990.v1.0.3",
     "ReferencesAndLinks": [
         "Khalife, S., Francis, S.T., Schluppeck, D., Sánchez-Panchuelo, R.-M., Besle, J., 2022. Fast Event-Related Mapping of Population Fingertip Tuning Properties in Human Sensorimotor Cortex at 7T. eNeuro 9. https://doi.org/10.1523/ENEURO.0069-22.2022"
     ]
